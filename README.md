@@ -9,4 +9,8 @@
 # 백엔드 개발 목록
 |번호|한글명|프로젝트 단위|바로가기|제작년도|
 |:----:|:----:|:-----:|:-----:|:----:|
-|1|firestore 이용한 웹|firestore_web|[링크](https://j0462.github.io/Web/)|2024|
+|1|일정관리 어플리케이션|1인|[링크](https://github.com/j0462/Schedule)|2024|
+|2|SNS 어플리케이션|5인|[링크](https://github.com/j0462/newspeed)|2024|
+|3|쇼핑몰|5인|[링크](https://github.com/j0462/shoppingmall)|2024|
+|4|협업도구 TRELLO|4인|[링크](https://github.com/j0462/Restructuring)|2024|
+|5|인사관리시스템|4인|[링크](https://github.com/j0462/nexus)|2024|
